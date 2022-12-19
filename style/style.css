@@ -1,0 +1,36 @@
+@import url('header.css');
+@import url('intro.css');
+@import url('cards.css');
+@import url('foto.css');
+@import url('people.css');
+@import url('slider.css');
+@import url('downald.css');
+@import url('footer.css');
+
+
+body {
+  margin: 0;
+  font-family: "Cardo", serif;
+  font-family: "Raleway", sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+.container {
+  width: 100%;
+  max-width: 1170px;
+  margin: 0 auto;
+}
+
+/*header*/
+/*intro*/
+/*cards*/
+/*foto*/
+/*people*/
+/*slider*/
+/*downald*/
+/*footer*/
+

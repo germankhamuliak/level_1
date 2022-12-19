@@ -1,0 +1,36 @@
+.downald__content {
+    text-align: center;
+    margin: 115px 0;
+  }
+  
+  .downald__content h3 {
+    font-family: Raleway;
+    font-size: 30px;
+    font-weight: 500;
+    line-height: 35px;
+  }
+  
+  .downald__content h5 {
+    font-family: Raleway;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 21px;
+    padding-top: 15px;
+    padding-bottom: 50px;
+  }
+  @media (max-width: 1100px) {
+    .downald__content h3 {
+      font-size: 24px;
+    }
+    .downald__content h5 {
+      font-size: 14px;
+    }
+  }
+  @media (max-width: 770px) {
+    .downald__content h3 {
+      font-size: 18px;
+    }
+    .downald__content h5 {
+      font-size: 13px;
+    }
+  }
